@@ -10,6 +10,10 @@ font-family:Arial, Helvetica, sans-serif;
     height: 10em;
     position: relative;
 }
+#header{
+  text-decoration: underline;
+  
+}
 
 a.nav-link.active{
     color:#e31b6d!important ;
@@ -18,4 +22,11 @@ a.nav-link.active{
  a.nav-link:hover{
      color:#e31b6d!important;
  }
+
+ .cardTitle{
+     text-decoration: underline;
+     color:#e31b6d !important;
+     background-color: rgba(0, 0, 0, 0.794);
+ }
+
 
