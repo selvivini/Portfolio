@@ -16,4 +16,4 @@ The site is very responsive on al view ports
 ![contact](Assets/images/contact.PNG)
 
 
-[gitHub link](https://selvivini.github.io/Portfolio/about.html)
+[gitHub link](https://selvivini.github.io/Portfolio)
